@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1794238279 source:d:\c++ projects\clinic booking\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<map>
+	<algorithm>
+	<limits>
+
